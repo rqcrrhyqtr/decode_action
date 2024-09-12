@@ -1,4 +1,4 @@
-#   --------------------------------注释&变量区--------------------------------
+
 #   入口 https://app.zhuanbang.net/invite/7079
 #   找请求头中NiuToken的值
 #  NiuToken=**** 只要**** NiuToken=不要填 NiuToken=不要填 NiuToken=不要填
